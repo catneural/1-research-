@@ -30,13 +30,3 @@ describe a little later. A typical neuron is shown in below:
   cell body. Dendritic structures are key to how the various inputs recieved by a neuron effect it's output.
 
 * **Myelin sheath**: used to increase the efficiency of electrical transmission in axons.
-
-
-## Neuron types
-
-Neurons can be classified according to their locaiton, shape, operative function etc. Motor neurons for example are used to send
-impulses to biological actuators like muscles and glands and organs. In contrast, sensory neurons are used to receive input from
-the outside word, being activated chemically or physically.
-
-Now, when it comes to neurons in the brain, classification is a little less clear cut. There are many many different neuron types
-which have been defined but there isn't universal agreement - just something to keep in mind.
