@@ -38,4 +38,5 @@ Neurons can be classified according to their locaiton, shape, operative function
 impulses to biological actuators like muscles and glands and organs. In contrast, sensory neurons are used to receive input from
 the outside word, being activated chemically or physically.
 
-Now, when it comes to neurons in the brain, classification is a little less clear cut.
+Now, when it comes to neurons in the brain, classification is a little less clear cut. There are many many different neuron types
+which have been defined but there isn't universal agreement - just something to keep in mind.
