@@ -32,3 +32,8 @@ describe a little later. A typical neuron is shown in below:
 * **Myelin sheath**: used to increase the efficiency of electrical transmission in axons.
 
 
+## Neuron types
+
+Neurons can be classified according to their locaiton, shape, operative function etc. Motor neurons for example are used to send
+impulses to biological actuators like muscles and glands and organs. In contrast, sensory neurons are used to receive input from
+the outside word, being activated chemically or physically.
