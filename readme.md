@@ -37,3 +37,5 @@ describe a little later. A typical neuron is shown in below:
 Neurons can be classified according to their locaiton, shape, operative function etc. Motor neurons for example are used to send
 impulses to biological actuators like muscles and glands and organs. In contrast, sensory neurons are used to receive input from
 the outside word, being activated chemically or physically.
+
+Now, when it comes to neurons in the brain, classification is a little less clear cut.
