@@ -20,7 +20,10 @@ describe a little later. A typical neuron is shown in below:
 
 * **nucleus**: as in other cell types, the nucleus contains genetic information neccessary for the production of proteins in the
   cell.
+  
 * **axon (nerve fibre)**: slender projections away from the main cell body, conductive to electrical impulses (action potentials). They are used
   to transport signals between neurons and recievers such as other neurons, muscles or glands.
+  
 * **axon terminal**: the end of an axon, separated from postsynaptic receptors by the synapse gap.
+
 * **dendrite**: 
