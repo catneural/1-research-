@@ -18,12 +18,17 @@ describe a little later. A typical neuron is shown in below:
   <img width='70%' src='https://teachmeanatomy.info/wp-content/uploads/Structure-of-a-Neurone.jpg'>
 </p>
 
-* **nucleus**: as in other cell types, the nucleus contains genetic information neccessary for the production of proteins in the
+* **Nucleus**: as in other cell types, the nucleus contains genetic information neccessary for the production of proteins in the
   cell.
   
-* **axon (nerve fibre)**: slender projections away from the main cell body, conductive to electrical impulses (action potentials). They are used
-  to transport signals between neurons and recievers such as other neurons, muscles or glands.
+* **Axon (nerve fibre)**: slender projections away from the main cell body, conductive to electrical impulses (action potentials). 
+  They are used to transport signals between neurons and recievers such as other neurons, muscles or glands.
   
-* **axon terminal**: the end of an axon, separated from postsynaptic receptors by the synapse gap.
+* **Axon terminal**: the end of an axon, separated from postsynaptic receptors by the synapse gap.
 
-* **dendrite**: 
+* **Dendrite**: branched extensions of a neuron which transfer electrochemical impulses received from other neural cells to the
+  cell body. Dendritic structures are key to how the various inputs recieved by a neuron effect it's output.
+
+* **Myelin sheath**: used to increase the efficiency of electrical transmission in axons.
+
+
