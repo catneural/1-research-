@@ -14,4 +14,4 @@ Neurons and gila are the fundemental building blocks of a nervous system. Neuron
 transmit electrochemical signals, forming neural networks. There are many different classifications of neuron which we will
 describe a little later. A typical neuron is shown in below:
 
-<img src='/
+<img src='https://teachmeanatomy.info/wp-content/uploads/Structure-of-a-Neurone.jpg'>
