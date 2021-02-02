@@ -30,3 +30,9 @@ describe a little later. A typical neuron is shown in below:
   cell body. Dendritic structures are key to how the various inputs recieved by a neuron effect it's output.
 
 * **Myelin sheath**: used to increase the efficiency of electrical transmission in axons.
+
+## Types of neuronal extensions
+
+* Detrite - inputs to neurons
+* Axon - outputs from neurons
+* Amacrine - bidirectional connections between neurons
