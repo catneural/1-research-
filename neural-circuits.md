@@ -5,7 +5,7 @@ essentially just input, output and relay devices do anything useful or "smart"? 
 neural circuits enter the picture.
 
 
-## potentials
+## Potentials
 
 * Action potential - the mechinism by which signals are propagated along a neuron's axons
 * Membrane potential - the difference in electric potential between the interiour and exteriour of a cell
@@ -14,3 +14,10 @@ neural circuits enter the picture.
 * Inhibitory postsynaptic potential - makes a neuron less likely to fire at a particular instant
 * Action threshhold - the threshhold needed for a neuron to fire. A neuron fires depending on whether the sum of exitatory and inhibitory
   postsynaptic potentials reaches the threshhold
+
+
+## Synaptic Plasticity
+
+Synaptic plasticity is the ability for synapses to strengthen or weaken over time in response to their
+activity. This can occur through several mechanisms, e.g. changes in neurotransmitter quantity or the number of neurotransmitter
+receptors.
