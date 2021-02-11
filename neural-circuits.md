@@ -5,10 +5,12 @@ essentially just input, output and relay devices do anything useful or "smart"? 
 neural circuits enter the picture.
 
 
-## Fundementals
+## potentials
 
-There are a few important topics we should understand first, before discussing neural circuits.
-
-
-### Action potentials
-
+* Action potential - the mechinism by which signals are propagated along a neuron's axons
+* Membrane potential - the difference in electric potential between the interiour and exteriour of a cell
+* Synaptic potential - the incomming (recieved) signal resulting from the action of neurotransmitters at the synapse
+* Excitatory postsynaptic potential - makes a neuron more likely to fire at a particular instant
+* Inhibitory postsynaptic potential - makes a neuron less likely to fire at a particular instant
+* Action threshhold - the threshhold needed for a neuron to fire. A neuron fires depending on whether the sum of exitatory and inhibitory
+  postsynaptic potentials reaches the threshhold
